@@ -1,0 +1,10 @@
+2023-10-01 08:00:00 INFO User login successful: user=john.doe ip=192.168.1.10
+2023-10-01 08:05:00 INFO User login successful: user=jane.smith ip=192.168.1.11
+2023-10-01 08:10:00 WARN Failed login attempt: user=admin ip=10.0.0.5
+2023-10-01 08:15:00 WARN Failed login attempt: user=admin ip=10.0.0.5
+2023-10-01 08:20:00 WARN Failed login attempt: user=admin ip=10.0.0.5
+2023-10-01 08:25:00 INFO User login successful: user=admin ip=192.168.1.100
+2023-10-01 09:00:00 INFO System startup completed
+2023-10-01 09:30:00 ERROR Disk space low: /var/log 95% used
+2023-10-01 10:00:00 INFO Backup completed successfully
+2023-10-01 11:00:00 WARN Unusual network traffic detected from ip=203.0.113.1
