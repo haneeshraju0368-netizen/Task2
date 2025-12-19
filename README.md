@@ -1,8 +1,8 @@
-In this internship project, you'll get a beginner-friendly introduction to the core activities of a Security Operations Center (SOC). Your main role will be to monitor security alerts, analyze potential threats, and simulate incident response — just like a SOC analyst in a real company.
+In this internship project, i will get a beginner-friendly introduction to the core activities of a Security Operations Center (SOC). Your main role will be to monitor security alerts, analyze potential threats, and simulate incident response — just like a SOC analyst in a real company.
 
 This project simulates what SOC teams do 24/7 to keep organizations safe from cyberattacks by detecting suspicious activities early and responding quickly.
 
-✅ What You'll Do
+✅ What i will Do
 
 Set up and explore a free or demo SIEM tool (Security Information and Event Management) like Elastic Stack (ELK) or Splunk Free Trial
 Analyze incoming security alerts and logs (simulated data provided)
@@ -11,7 +11,7 @@ Categorize and prioritize alerts based on severity
 Draft an incident response report outlining the threat, impact, and suggested next steps
 Simulate communication with stakeholders about the incident
 Learn how SOC teams track and manage threats using dashboards and playbooks
-🎯 Skills You'll Gain
+🎯 Skills i need
 
 Basic log analysis and alert triage
 Understanding of SIEM tools and dashboards
